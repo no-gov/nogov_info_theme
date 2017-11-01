@@ -1,0 +1,11 @@
+{
+  "name": "no-gov/nogov_info_theme",
+  "type": "drupal-theme",
+  "description": "Base info theme.",
+  "homepage": "http://github.com/no-gov",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/core": "~8.4",
+    "no-gov/nogov_theme": "dev-master"
+  }
+}
