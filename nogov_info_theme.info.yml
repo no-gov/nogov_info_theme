@@ -1,0 +1,10 @@
+name: noGov Info Theme
+type: theme
+description: Base theme for info project; child to nogov_theme
+package: noGov
+core: 8.x
+libraries:
+  - nogov_info_theme/global-styling
+ 
+base theme: nogov_theme
+
